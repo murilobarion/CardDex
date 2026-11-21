@@ -1,0 +1,15 @@
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Java
+**/target/
+
+# Angular
+**/node_modules/
+**/dist/
+**/.angular/
+
+# VS Code
+**/.vscode/
